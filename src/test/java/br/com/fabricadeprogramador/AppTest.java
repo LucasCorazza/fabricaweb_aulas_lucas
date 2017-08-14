@@ -1,4 +1,4 @@
-package br.com.fabricadeprogramador.fabricaweb;
+package br.com.fabricadeprogramador;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
